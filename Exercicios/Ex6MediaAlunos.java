@@ -4,7 +4,7 @@ public class Ex6MediaAlunos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        double[] vetorMedias = new double[2];
+        double[] vetorMedias = new double[20];
         double[] vetorNotas = new double[4];
         
         for(int i = 0; i < vetorMedias.length; i++) {
